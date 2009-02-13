@@ -3,3 +3,5 @@
 
 include('inc/config.php');
 include('inc/header.php');
+
+?>
