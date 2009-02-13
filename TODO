@@ -5,10 +5,12 @@ Key: [ ] To-do | [x] Done
 
 Core
 ----------------
-
+[ ] Create user account registration.
+[ ] Create user account functionality and management.
+[ ] Create aPanel.
 Database
 ----------------
-
+[ ] Add users table
 Security
 ----------------
 
