@@ -1,4 +1,5 @@
 <?php # (C) 2009 KrutiMedia Productions, Inc
+      # Trimba CMS - Configuration File
 
 $conf_site_name = "";
 $conf_site_url = "";
