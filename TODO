@@ -1,18 +1,27 @@
-Key: [ ] To-do | [x] Done
---------------------------
+Key: [ ] To-do | [+] In Progress | [x] Done
+-------------------------------------------
 
+First Build
+----------------
+-Core-
+ [ ] Add aPanel
+     [ ] Dashboard
+ [ ] Add User Accounts
+     [ ] Login Functions & Basic Interface
+     [ ] Registration Functions & Basic Interface
+ [ ] Add Global News System
+ [ ] Create template system
 
+-Database-
+ [ ] Create 'users' table
+ [ ] Create 'settings' table
+ [ ] Create 'news' table
 
-Core
-----------------
-[ ] Create user account registration.
-[ ] Create user account functionality and management.
-[ ] Create aPanel.
-Database
-----------------
-[ ] Add users table
-Security
-----------------
+-User Interface-
+ [ ] Create Offical Logo
+ [ ] Create aPanel default template
+ [ ] Create website default template
 
-User Interface
-----------------
+-Project-
+ [ ] Create Official Logo
+ [ ] Create Website
