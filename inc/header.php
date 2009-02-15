@@ -4,6 +4,7 @@
 if ($conf_site_status == '0') {
   die('The site is offline')
 }
+
 ob_start();
 
 session_start();
