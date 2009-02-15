@@ -1,6 +1,9 @@
 <?php # (C) 2009 KrutiMedia Productions, Inc
       # Trimba CMS - core includes: header
 
+if ($conf_site_status == '0') {
+  die('The site is offline')
+
 ob_start();
 
 session_start();
